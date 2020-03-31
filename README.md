@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Jammming
+
+The capstone project for the Codecademy React course.
 
 ## Available Scripts
 
